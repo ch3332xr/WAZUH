@@ -15,5 +15,5 @@ Installs wazuh-manager, wazuh-api & filebeat in a go
 4. chmod  +x  *.sh
 5. ./setup.sh 
 
-#### Tested on Ubuntu 18.04.4 LTS
+##### Tested on Linux 4.15.0-106-generic #107-Ubuntu SMP 
 SkFJX01BSEFLQUwh
