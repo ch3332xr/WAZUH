@@ -1,7 +1,7 @@
 # Get started with WAZUH 
 The Open Source Security Platform https://wazuh.com/
 
-Simple script to get WAZUH running in a jiffy
+Simple scripts to get WAZUH running in a jiffy
 
 ## Install WAZUH Manager
 
