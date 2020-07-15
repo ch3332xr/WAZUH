@@ -22,6 +22,11 @@ Installs wazuh-manager, wazuh-api & filebeat in a go
 2. ./elasticsetup.sh
 
 
+## SINGLE NODE SETUP (ALL in ONE)
+
+1. Run as ROOT
+2. ./allinone.sh
+
 
 
 ##### Tested on Linux 4.15.0-106-generic #107-Ubuntu SMP 
