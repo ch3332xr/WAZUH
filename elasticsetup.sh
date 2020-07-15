@@ -20,5 +20,4 @@ sudo -u kibana bin/kibana-plugin install https://packages.wazuh.com/wazuhapp/waz
 systemctl daemon-reload
 systemctl enable kibana.service
 systemctl start kibana.service
-echo -e "[+] ALL SET!! Further Config edit /etc/kibana/kibana.yml "
-echo -e "[+] elasticsearch.hosts: ["http://<elasticsearch_ip>:9200"]  "
+echo -e "[+] ALL SET!! Further Config edit /etc/kibana/kibana.yml
