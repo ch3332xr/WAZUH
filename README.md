@@ -18,7 +18,7 @@ Installs wazuh-manager, wazuh-api & filebeat in a go
 ## Install ELASTICSTACK & KIBANA
 
 
-1. Run as Root
+1. Run as ROOT
 2. chmod  +x  *.sh
 3. ./elasticsetup.sh
 
