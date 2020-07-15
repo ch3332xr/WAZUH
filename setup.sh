@@ -32,4 +32,4 @@ systemctl restart filebeat.service
 systemctl restart wazuh-manager
 systemctl restart wazuh-api
 systemctl status filebeat wazuh-api wazuh-manager
-echo -e " [++] All SET , Do not forget to edit filebeat  /etc/filebeat/filebeat.yml , ADD IP "
+echo -e " [++] All SET! , Do not forget to edit filebeat  /etc/filebeat/filebeat.yml , ADD IP "
