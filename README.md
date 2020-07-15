@@ -13,7 +13,7 @@ Installs wazuh-manager, wazuh-api & filebeat in a go
 2. git clone https://github.com/ch3332/WAZUH/
 3. cd WAZUH
 4. chmod  +x  *.sh
-5. ./setup.sh 
+5. ./wazuhsetup.sh 
 
 ## Install ELASTICSEARCH & KIBANA
 
