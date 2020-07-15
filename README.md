@@ -38,7 +38,7 @@ Installs wazuh-manager, wazuh-api & filebeat in a go
 
 ![alt text](https://documentation.wazuh.com/3.13/_images/installing_wazuh_singlehost1.png)
 
-#### [*]Installs Wazuh-manager, Wazuh-api, Filebeat, Elasticsearch, Kibana in a go
+#### [*] Installs Wazuh-manager, Wazuh-api, Filebeat, Elasticsearch, Kibana in a go
 
 1. Run as ROOT
 2. ./allinone.sh
