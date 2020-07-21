@@ -42,7 +42,8 @@ echo -e "[+] Installing Kibana "
 apt install kibana=7.8.0
 cd /usr/share/kibana/
 sudo -u kibana bin/kibana-plugin install https://packages.wazuh.com/wazuhapp/wazuhapp-3.13.1_7.8.0.zip
-echo -e SkFJX01BSEFLQUwh
+echo  [-------------SkFJX01BSEFLQUwh------------]
+echo  follow me on https://github.com/ch3332
 systemctl daemon-reload
 systemctl enable wazuh-manager.service
 systemctl enable wazuh-api.service
@@ -59,3 +60,5 @@ systemctl status wazuh-api
 systemctl status elasticsearch
 systemctl status filebeat
 systemctl status kibana
+echo  [-------------SkFJX01BSEFLQUwh------------]
+echo  follow me on https://github.com/ch3332
