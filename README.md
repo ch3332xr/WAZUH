@@ -17,7 +17,7 @@ Ref: https://documentation.wazuh.com/
 Installs wazuh-manager, wazuh-api & filebeat in a go
 
 1. Run as ROOT
-2. git clone https://github.com/ch3332/WAZUH/
+2. git clone https://github.com/ch3332xr/WAZUH/
 3. cd WAZUH
 4. chmod  +x  *.sh
 5. ./wazuhsetup.sh 
